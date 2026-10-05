@@ -1,0 +1,16 @@
+🚀 Launching AI Exit Hub: Take Control of Your Digital Footprint
+
+Juggling multiple AI tools shouldn't mean leaving active session tokens, data logs, and OAuth backdoors scattered across the web. 
+
+Today, I’m releasing AI Exit Hub—a secure, zero-backend, client-side privacy command center designed to help users quickly revoke access and clear their footprint across major AI platforms.
+
+What it features:
+* Direct Server-Side Logout Endpoints: Jump straight to account terminations and security settings for ChatGPT, Claude, Gemini, Perplexity, and more.
+* OAuth Backdoor Management: Easily clean up third-party app permissions linked via Google and Apple sign-ins.
+* Custom Markdown Checklist Generator: Select the platforms you use and instantly export a tailored, step-by-step security shutdown guide.
+* Strictly Client-Side Secure: Runs 100% locally in your browser with zero data tracking or backend logging.
+
+Check out the code, run it locally, or deploy your own:  
+🔗 [Insert your GitHub link here]
+
+#Privacy #OpenSource #CyberSecurity #ArtificialIntelligence
